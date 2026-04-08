@@ -1,0 +1,16 @@
+{
+  "name": "pom-baltimore",
+  "version": "1.0.0",
+  "description": "Baltimore Backyard Movies - Maryland landing page powered by Premiere Outdoor Movies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "license": "UNLICENSED"
+}
